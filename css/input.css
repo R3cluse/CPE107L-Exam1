@@ -1,0 +1,17 @@
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    vertical-align: middle;
+  }
+
+#formID{
+    display:inline;
+    float:left;
+    margin-right:4px;
+    vertical-align:top;
+}
